@@ -1,6 +1,1 @@
-# interview-codes
-interview-codes
-
-test edit
-
-test again
+﻿1. Find the max number in the array which increases firstly and then decreases
